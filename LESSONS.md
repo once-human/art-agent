@@ -31,4 +31,3 @@ What he loved, what he threw out, in his words where possible. Read before brain
 - When he gives a direction, follow its exact wording. Don't add things he didn't ask for, and don't drop things he did.
 - He checks the results himself; show the final preview and be honest about weak spots.
 - Real places, real facts: verify, don't invent.
-- **Keep the loop light.** The full playbook (two critics, 15+ rounds) uses up his limits when many pieces are made at once: "don't give too many critics... one round pass each... make it quicker... Don't make it non-human art." For a batch: a short brief, about three render-look-fix rounds, one fresh critic pass, one rework. Save the full loop for a single hero piece he asks for.
