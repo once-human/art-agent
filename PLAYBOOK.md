@@ -65,3 +65,14 @@ The single-agent version made the first pieces (3 rounds each) and they were alr
 ## 4. Lettering is separate
 
 Titles, dates and notes are set afterwards as real vector lettering (Figma or a font pipeline), over the calm zones the artist reported. The artist draws no text unless the brief says so. The handwritten notes in the manifest are lowercase, specific and true.
+
+## Optional: the light loop (only when the owner asks for it)
+
+Use this only when the owner explicitly asks for a quicker pass with fewer critics. Otherwise run the full loop above.
+
+- A short brief (about half a page) instead of the long one.
+- About three render, look, fix rounds by the artist.
+- One fresh critic pass.
+- One rework, then the final.
+
+He asked for this once, for a batch of 32 shirt fronts: "one round pass each... make it quicker... Don't make it non-human art." The anti-AI rules and the print checks stay exactly the same.
