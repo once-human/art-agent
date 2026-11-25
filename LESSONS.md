@@ -19,6 +19,10 @@ What he loved, what he threw out, in his words where possible. Read before brain
 - **Cartoonish vs artistic**: making it "more realistic" with flat polygon people and few big objects read as cartoonish: "not artistic and contemporary". The Mumbai map is the bar: rich, many real things to discover, each hand-drawn and readable, one strong structure, one expressive gesture. Richness is many identifiable objects, not many tiny marks.
 - **Don't let one icon take over**: the Bengaluru auto is iconic but "not the main focus point, because then we'll need to rename the t-shirt to auto". The city is the hero; icons are details in it.
 - **Realism where it is checkable**: a concert stage should be built like a real open-ground show (scaffold roof, line arrays, LED screens, delay towers, sound-desk tent, barricades), and a metro must read as a metro.
+- **Viewpoint**: a high aerial view read as "too drone shotty". He wants "a shot from a real street", a modest raised height (balcony/footbridge) where wet-road reflections look real.
+- **Reflections**: the ones he loves are painterly strokes (tapered brush strokes stacked into broken vertical streaks under each light), not ruled dashes ("these are just lines... the earlier were like strokes").
+- **Fred again.. lighting**: "aesthetic lights", not colourful ones: white and warm-white beams, strobes, haze, a big screen with lo-fi footage (think his Alexandra Palace shows). No rainbow stage washes.
+- **Name the subject in the picture**: a shirt called 22° must show the weather and the hour: drizzle in the lamp light, mist halos, wet glistening leaves, people comfortable in tees, 1:42 a.m. (shutters down, the chai stall still open, sleeping autos). The city's signature (rain trees) must dominate, not be "barely there".
 - **Generic merch ideas** (tracklists, slogans, icons) and **brushstroke lettering on its own**: "think more artistic".
 
 ## Working with him
