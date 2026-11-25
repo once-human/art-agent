@@ -11,6 +11,10 @@ What he loved, what he threw out, in his words where possible. Read before brain
 - **A heat-camera crowd and a metro-line diagram**: "AI-ish".
 - **Textures/objects that "look AI generated"**: anything too smooth, too perfect, too symmetrical, too evenly scattered.
 - **Ideas for the wrong audience**: for the Bengaluru shirt he rejected rangoli, jasmine strings and bus destination boards because the buyers are not locals: "They are more from outside, but then they love Bangalore... international... a lot more sophisticated... They won't even know what the fuck is that." The right ideas were the things that crowd actually loves: city lights, the weather, the rain, night streets, autos and cabs, pubs and rooftops.
+- **Noise**: a night street built from thousands of thin strokes, specks and fragments. "It looks noisy... no details at all", "I do not even understand what the white thing is" (a canopy drawn as speckle), "why is your artist creating things from like the smallest of strokes or like the smallest of dots". Build from big confident shapes; every shape must read as what it is from arm's length; fine detail only at the focal point.
+- **Invented colours**: "use real colors from the real world". Pick each colour from the real light of the scene (sodium lamp, LED, taillight, stage wash, skin).
+- **Right place, wrong subject**: a lovely city street for a concert shirt: "this is a nice Bangalore shirt, but then it's not Fred again... nothing concert". The subject has to be the reason the piece exists (the show), with the place as its setting.
+- He did like the wet-road reflections in that piece: lights doubled as long broken reflections.
 - **Generic merch ideas** (tracklists, slogans, icons) and **brushstroke lettering on its own**: "think more artistic".
 
 ## Working with him

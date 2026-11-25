@@ -11,6 +11,9 @@ Paste these into every brief as hard rules.
 - Imperfection as a filter on top (noise layer, "grunge" overlay, displacement on a finished image). Imperfection must come from **how each mark is made**.
 - Image-generation models, traced photos, downloaded art.
 - Text the brief didn't ask for. No brand names.
+- Noise: confetti, specks, scattered fragments, hairline strokes, dots used as texture. Marks are decisions, not static.
+- Shapes nobody can identify. If a viewer can't tell what a shape is from arm's length, cut it or fix it.
+- Invented colours. Each colour comes from a real light or material in the scene.
 
 ## What a real hand does (build these in)
 
