@@ -16,6 +16,9 @@ What he loved, what he threw out, in his words where possible. Read before brain
 - **Busy scene vs. T-shirt graphic**: a painted night scene with everything in it (stage, crowd, viaduct, autos, cabs) built from flat polygons read as crude cut paper. He wants "much more illustrative... very nice t-shirt graphics... it knows where it is going": one hero moment, clear hierarchy, a designed vignette, people properly drawn with anatomy and gesture.
 - **Right place, wrong subject**: a lovely city street for a concert shirt: "this is a nice Bangalore shirt, but then it's not Fred again... nothing concert". The subject has to be the reason the piece exists (the show), with the place as its setting.
 - He did like the wet-road reflections in that piece: lights doubled as long broken reflections.
+- **Cartoonish vs artistic**: making it "more realistic" with flat polygon people and few big objects read as cartoonish: "not artistic and contemporary". The Mumbai map is the bar: rich, many real things to discover, each hand-drawn and readable, one strong structure, one expressive gesture. Richness is many identifiable objects, not many tiny marks.
+- **Don't let one icon take over**: the Bengaluru auto is iconic but "not the main focus point, because then we'll need to rename the t-shirt to auto". The city is the hero; icons are details in it.
+- **Realism where it is checkable**: a concert stage should be built like a real open-ground show (scaffold roof, line arrays, LED screens, delay towers, sound-desk tent, barricades), and a metro must read as a metro.
 - **Generic merch ideas** (tracklists, slogans, icons) and **brushstroke lettering on its own**: "think more artistic".
 
 ## Working with him
