@@ -13,7 +13,7 @@ Paste these into every brief as hard rules.
 - Text the brief didn't ask for. No brand names.
 - Noise: confetti, specks, scattered fragments, hairline strokes, dots used as texture. Marks are decisions, not static.
 - Shapes nobody can identify. If a viewer can't tell what a shape is from arm's length, cut it or fix it.
-- Invented colours. Each colour comes from a real light or material in the scene.
+- Wrong colours on iconic objects (a city's auto, cab, metro): those keep their true colours. Everything else is a designed palette, free but harmonious.
 
 ## What a real hand does (build these in)
 
