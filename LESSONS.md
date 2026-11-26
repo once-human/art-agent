@@ -23,6 +23,10 @@ What he loved, what he threw out, in his words where possible. Read before brain
 - **Reflections**: the ones he loves are painterly strokes (tapered brush strokes stacked into broken vertical streaks under each light), not ruled dashes ("these are just lines... the earlier were like strokes").
 - **Fred again.. lighting**: "aesthetic lights", not colourful ones: white and warm-white beams, strobes, haze, a big screen with lo-fi footage (think his Alexandra Palace shows). No rainbow stage washes.
 - **Name the subject in the picture**: a shirt called 22° must show the weather and the hour: drizzle in the lamp light, mist halos, wet glistening leaves, people comfortable in tees, 1:42 a.m. (shutters down, the chai stall still open, sleeping autos). The city's signature (rain trees) must dominate, not be "barely there".
+- **Painterly beats filled shapes**: flat blob clouds and solid colour fills read as "generated". He wants brush-built marks: clouds as loose wavy stroke bands (round 8 of art-f-22b), colour laid as directional strokes with black between them.
+- **Reflections he loves** (still-breathing art-f-walkout draft, art-f-street): under each light a column of stacked horizontal brush strokes of varied length and thickness, breaking, wobbling, widening toward the viewer, plus painterly puddle shapes. Dot pools under lamps: rejected.
+- **Scale at the stage**: the performer is small at a booth in realistic scale; a giant figure on stage looks wrong.
+- **Cost**: 25+ rounds and many restarts burned his usage three times. Lock the composition early, then do targeted fix passes with one artist; restart only when the direction is wrong.
 - **Generic merch ideas** (tracklists, slogans, icons) and **brushstroke lettering on its own**: "think more artistic".
 
 ## Working with him
